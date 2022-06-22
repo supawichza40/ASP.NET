@@ -35,11 +35,13 @@ namespace ThingsILearned.Controllers
             }
             return View(getPostById);
         }
+        [Authorize]
         public ActionResult EditForm(int id)
         {
             var getPostById = _context.Posts.FirstOrDefault(p => p.Id == id);
             return View(getPostById);
         }
+        [Authorize]
         public ActionResult Save(Post newPost,int id)
         {
             var getPostByIdFromDb = _context.Posts.FirstOrDefault(p=>p.Id==id);
@@ -51,10 +53,12 @@ namespace ThingsILearned.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+        [Authorize]
         public ActionResult Create()
         {
             return View();
         }
+        [Authorize]
         public ActionResult CreatePost(Post post)
         {
             post.CreatedDate = DateTime.Now;
@@ -63,6 +67,7 @@ namespace ThingsILearned.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+        [Authorize]
         public ActionResult DeletePost(int id)
         {
             var postByIdFromDb = _context.Posts.FirstOrDefault(p => p.Id == id);

@@ -16,6 +16,7 @@ namespace ThingsILearned.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            ViewBag.Test = "Hello";
 
             return View();
         }

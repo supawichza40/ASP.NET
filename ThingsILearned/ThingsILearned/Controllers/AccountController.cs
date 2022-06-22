@@ -136,7 +136,7 @@ namespace ThingsILearned.Controllers
 
         //
         // GET: /Account/Register
-        [AllowAnonymous]
+        [Authorize]
         public ActionResult Register()
         {
             return View();
@@ -147,6 +147,7 @@ namespace ThingsILearned.Controllers
         [HttpPost]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
+        [Authorize]
         public async Task<ActionResult> Register(RegisterViewModel model)
         {
             if (ModelState.IsValid)
