@@ -1,0 +1,226 @@
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\ThingsILearned.dll.config
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\ThingsILearned.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\ThingsILearned.pdb
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\csc.exe
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\csc.exe.config
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\csc.rsp
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\csi.exe
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\csi.exe.config
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\csi.rsp
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.AppContext.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Console.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Globalization.Calendars.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.Compression.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Net.Http.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Net.Sockets.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.ValueTuple.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.XPath.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\vbc.exe
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\vbc.exe.config
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\vbc.rsp
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\VBCSCompiler.exe
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Antlr3.Runtime.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\EntityFramework.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\EntityFramework.SqlServer.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Google.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Newtonsoft.Json.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Owin.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Helpers.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Mvc.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Optimization.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Razor.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Deployment.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Razor.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\WebGrease.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Helpers.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Mvc.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Optimization.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.Razor.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Deployment.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Razor.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Newtonsoft.Json.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Antlr3.Runtime.pdb
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\EntityFramework.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\EntityFramework.SqlServer.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Google.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.AssemblyReference.cache
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.CoreCompileInputs.cache
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.CopyComplete
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.dll
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.pdb
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.InitialMigration.resources
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.GenerateResource.cache
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.AddPostModel.resources
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.AddPostModel1.resources
+C:\Work\C# Projects\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.UpdatingCssFile.resources
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\ThingsILearned.dll.config
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\ThingsILearned.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\ThingsILearned.pdb
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\csc.exe
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\csc.exe.config
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\csc.rsp
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\csi.exe
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\csi.exe.config
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\csi.rsp
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.AppContext.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Console.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Globalization.Calendars.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.Compression.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Net.Http.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Net.Sockets.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.ValueTuple.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.XPath.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\vbc.exe
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\vbc.exe.config
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\vbc.rsp
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\VBCSCompiler.exe
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Antlr3.Runtime.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\EntityFramework.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\EntityFramework.SqlServer.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Google.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Newtonsoft.Json.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Owin.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Helpers.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Mvc.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Optimization.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Razor.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Deployment.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Razor.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\WebGrease.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\EntityFramework.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\EntityFramework.SqlServer.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Helpers.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Mvc.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Optimization.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.Razor.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Deployment.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\System.Web.WebPages.Razor.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Newtonsoft.Json.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Antlr3.Runtime.pdb
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Google.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.AssemblyReference.cache
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.InitialMigration.resources
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.AddPostModel.resources
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.AddPostModel1.resources
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.Migrations.UpdatingCssFile.resources
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.GenerateResource.cache
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.CoreCompileInputs.cache
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.csproj.CopyComplete
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.dll
+C:\Work\ASP.NET\ThingsILearned\ThingsILearned\obj\Debug\ThingsILearned.pdb
